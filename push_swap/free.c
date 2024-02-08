@@ -33,9 +33,6 @@ void	free_argv(char **argv)
 // free all heap memory, exit the program
 void	free_all(t_stack **stack_a, char **argv, bool is_heep)
 {
-	int		i;
-
-	i = 0;
 	if (is_heep)
 		free_argv(argv);
 	free_stack(stack_a);
