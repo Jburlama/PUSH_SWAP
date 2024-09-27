@@ -28,4 +28,4 @@
 
 # Credits
 
-I was able to make this project thanks to the help of [A. Yigit Ogun](https://github.com/ayogun) blog post about the [Turk Algorithm](https://medium.com/@ayogun/push-swap-c1f5d2d41e97).
+I was able to make this project thanks to the help of [A. Yigit Ogun](https://github.com/ayogun) blog's post about the [Turk Algorithm](https://medium.com/@ayogun/push-swap-c1f5d2d41e97).
