@@ -31,4 +31,4 @@
 I was able to make this project thanks to the help of [A. Yigit Ogun](https://github.com/ayogun) blog's post about the [Turk Algorithm](https://medium.com/@ayogun/push-swap-c1f5d2d41e97).
 ----------------------------------
 
-## For more information about the project [subject](https://find-peers.codam.nl/#push_swap)
+For more information about the project [subject](https://cdn.intra.42.fr/pdf/pdf/141987/en.subject.pdf)
