@@ -25,3 +25,7 @@
 **Push_Swap** must conform to the [42 Norm](https://cdn.intra.42.fr/pdf/pdf/96987/en.norm.pdf).
 
 **Install** [norminette](https://github.com/42School/norminette).
+
+# Credits
+
+I was able to make this project thanks to the help of [A. Yigit Ogun](https://github.com/ayogun).
