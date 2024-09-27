@@ -22,4 +22,5 @@
 4. At the end, stack b must empty empty and all integers must be in stack a, sorted in ascending order.
 
 **Push_Swap** must conform to the [42 Norm](https://cdn.intra.42.fr/pdf/pdf/96987/en.norm.pdf).
+
 **Install** [norminette](https://github.com/42School/norminette).
